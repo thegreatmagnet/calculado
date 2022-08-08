@@ -10,7 +10,7 @@ div{
     border-color: white;
 }
 .display{
-    height: 150px;
+    height: 194px;
 }
 #displayOne{
     height: 40px;
@@ -19,6 +19,9 @@ div{
     height: 40px;
 }
 #displayThree{
+    height: 40px;
+}
+#displayFour{
     height: 40px;
 }
 
