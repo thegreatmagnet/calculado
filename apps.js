@@ -102,32 +102,7 @@ function appendEquals(equalsButton) {
     b = parseInt(displayThree)
     o = displayTwo
     console.log("inEQUALS",  a, displayTwo, b)
-    // function add(a, b){
-
-    //     a + b
-        
-    //     return
-    // }
-    // function subtract(a, b){
-    //     a - b
-        
-    //     return
-    // }
-    // function multiply(a, b){
-    //     a * b
-    
-    //     return
-    // }
-    // function divide(a, b){
-    //     a / b
-    
-    //     return
-    // }
-    // function percent(a, b){
-    //     a % b
-    
-    //     return
-    // }
+ 
     if(o == "+"){
         // add(a, b);
         let answer = a + b
